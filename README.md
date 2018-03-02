@@ -1,2 +1,2 @@
 # rayTrace
-Ray trace.
+Ray Trace using C++.
